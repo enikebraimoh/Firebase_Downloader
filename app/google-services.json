@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335213588731",
+    "firebase_url": "https://fir-downloader-bc8a1.firebaseio.com",
+    "project_id": "fir-downloader-bc8a1",
+    "storage_bucket": "fir-downloader-bc8a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335213588731:android:281ef333b04647754a005e",
+        "android_client_info": {
+          "package_name": "com.enike.firebasedownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335213588731-i2a1h8hhq0ld43frr7nol8volpdkrr7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVk-5MRYCUdY3VdDqyoF2RQujnGu-vCCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335213588731-i2a1h8hhq0ld43frr7nol8volpdkrr7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
